@@ -18,6 +18,8 @@ description: "The Jewels of Aptor is a 1962 science fantasy novel by Samuel R. D
   \ Delany's original text has been restored, as the first edition was shortened by\
   \ about fifteen pages for publication in the Ace Double format.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41981#The-Jewels-of-Aptor
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2013-02-03'
 gutenberg_type: Text
