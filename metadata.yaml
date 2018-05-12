@@ -1,0 +1,38 @@
+_repo: The-Jewels-of-Aptor_41981
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41981-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Delany, Samuel R.
+    aliases:
+    - Delany, Chip
+    - Delaney, Samuel R.
+    birthdate: 1942
+    gutenberg_agent_id: '41419'
+    url: http://www.gutenberg.org/2009/agents/41419
+description: "The Jewels of Aptor is a 1962 science fantasy novel by Samuel R. Delany,\
+  \ his first published novel. It first appeared in shortened form as an Ace Double\
+  \ F-173 together with Second Ending by James White.\nFrom the 1968 edition onwards,\
+  \ Delany's original text has been restored, as the first edition was shortened by\
+  \ about fifteen pages for publication in the Ace Double format.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2013-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41981'
+  wikidata: Q7743200
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Jewels of Aptor
+url: http://www.gutenberg.org/ebooks/41981
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Jewels_of_Aptor
+- https://it.wikipedia.org/wiki/I_gioielli_di_Aptor
